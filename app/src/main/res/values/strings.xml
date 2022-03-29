@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rtls-sensor-example-android-java</string>
+    <string name="start">Start</string>
+</resources>
