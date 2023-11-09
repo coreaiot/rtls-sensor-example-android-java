@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">rtls-sensor-example-android-java</string>
     <string name="start">Start</string>
+    <string name="moving">Moving</string>
+    <string name="alarm">Alarm</string>
+    <string name="defaultMac">1234</string>
+    <string name="mac">MAC</string>
+    <string name="hintMac">MAC</string>
+    <string name="tx_power_ultra_low">ULTRA LOW</string>
+    <string name="tx_power_low">LOW</string>
+    <string name="tx_power_medium">MEDIUM</string>
+    <string name="tx_power_high">HIGH</string>
+    <string name="mode_low_latency">LOW LATENCY</string>
+    <string name="mode_balanced">BALANCED</string>
+    <string name="mode_low_power">LOW POWER</string>
+    <string name="mode">Mode</string>
+    <string name="tx_power">Tx Power</string>
+    <string name="channel">Channel</string>
+    <string name="_37">37 (2402)</string>
+    <string name="_38">38 (2426)</string>
+    <string name="_39">39 (2480)</string>
 </resources>
